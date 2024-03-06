@@ -1,0 +1,1 @@
+I want to have a centralized place for all of my knowledge on AI/ML research. I realized that I was wasting some time by not taking more notes, so that is what I did.
