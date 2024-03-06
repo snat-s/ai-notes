@@ -1,0 +1,2 @@
+It is a multimodal model that accepts video and text. It is based on the [[Flamingo]] architecture but it is an open source implementation of it. Specifically trained on a dataset called [[OBELICS]].
+There are two versions, a 9B and an 80B.

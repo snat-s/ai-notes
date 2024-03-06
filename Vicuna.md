@@ -1,0 +1,1 @@
+An open source chatbot that is a fintune of [[LLaMA]]. They fine tuned it with outputs from GPT-4, so that is why it is better than something like [[Alpaca]].

@@ -1,0 +1,1 @@
+An open source family of LLMs made by Meta that is pretty good. They have several different sizes, from 7B all the way up to 70B.
