@@ -11,4 +11,6 @@ Any-2-any [[LLM]]s are trying to make LLMs accept multiple inputs and outputs. T
 | [[IDEFICS]]      | images + video + text                              | text                                | Yes         | OpenClip + LlaMA                                                                                                         | ![[flamingo diagram.png]]  |
 | [[OpenFlamingo]] | images + text                                      | text                                | Yes         | CLIP ViT-L/14 + MPT-1B / RedPajama3B / MPT-7B                                                                            | ![[flamingo diagram.png]]  |
 | [[AnyMal]]       | image + audio + video + text + IMU                 | text                                | No          | CLIP ViT-L + ViT-G + DinoV2<br>(image) + CLAP (audio) + IMU2CLIP (IMU motion sensor) +  Intervideo (video) + LLaMA-2 70B | ![[AnyMal diagram.png]]    |
+
+
 I love that most of the efforts from this era specifically use Vicuna because [[Mistral]] seems to still have not been a thing.
